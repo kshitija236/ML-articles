@@ -11,3 +11,12 @@ Understand Computational Graph
 https://cs231n.github.io/optimization-2/
 http://colah.github.io/posts/2015-08-Backprop/
 http://neuralnetworksanddeeplearning.com/chap2.html
+
+Transformer and attention
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+http://jalammar.github.io/illustrated-transformer/
+
+Word2vec
+skipgram: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+negative sampling: https://www.baeldung.com/cs/nlps-word2vec-negative-sampling
+
