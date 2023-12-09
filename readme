@@ -20,3 +20,6 @@ Word2vec
 skipgram: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 negative sampling: https://www.baeldung.com/cs/nlps-word2vec-negative-sampling
 
+Dilated and separable convolutions:
+https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+
